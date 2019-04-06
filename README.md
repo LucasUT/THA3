@@ -12,7 +12,7 @@
 
 ##### <ins>pci_data.csv:</ins> This data, provided by http://www.chicagocomputerclasses.com/ and originally compiled using a public dataset released by the City of Chicago, includes the average per capita income for all 77 of Chicago's community areas, listed by name. 
 
-##### <ins>areapop.csv:</ins> This file includes data from the 2010 Census that provides the total populations of each of Chicago's community areas. 
+##### <ins>areapop.csv:</ins> This file includes data from the 2010 Census (https://datahub.cmap.illinois.gov/dataset/2010-census-data-summarized-to-chicago-community-areas/resource/b30b47bf-bb0d-46b6-853b-47270fb7f626) that provides the total populations of each of Chicago's community areas. 
 
 ### Data Dictionary: 
 
